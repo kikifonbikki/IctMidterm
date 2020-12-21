@@ -1,0 +1,10 @@
+.Header{
+  background-color: black;
+  front-height: 100px; /* Высота  */
+      front-width: 100px; /*ширина*/
+   color: red;
+   padding: 10px;
+}
+.Header:hover {
+    font-size: 150%;
+}
